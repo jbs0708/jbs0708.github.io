@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce6a0456.css",
-    "main.js": "/static/js/main.c14412cf.js",
-    "static/media/copy.svg": "/static/media/copy.2145db70bcdee64f9af2f449c0d3d231.svg",
+    "main.css": "/static/css/main.d41a976d.css",
+    "main.js": "/static/js/main.d6764c06.js",
+    "static/media/MaruBuri-Bold.ttf": "/static/media/MaruBuri-Bold.e4b8f8f11f5954535578.ttf",
+    "static/media/MaruBuri-SemiBold.ttf": "/static/media/MaruBuri-SemiBold.3182e4f22d4d2d7d0b3b.ttf",
+    "static/media/Golden Plains.ttf": "/static/media/Golden Plains.60a51076f8b0c6ed7c4f.ttf",
+    "static/media/copy.svg": "/static/media/copy.bd64e63410e12b14c8ddb3f9e5f3dcd9.svg",
     "index.html": "/index.html",
-    "main.ce6a0456.css.map": "/static/css/main.ce6a0456.css.map",
-    "main.c14412cf.js.map": "/static/js/main.c14412cf.js.map"
+    "main.d41a976d.css.map": "/static/css/main.d41a976d.css.map",
+    "main.d6764c06.js.map": "/static/js/main.d6764c06.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce6a0456.css",
-    "static/js/main.c14412cf.js"
+    "static/css/main.d41a976d.css",
+    "static/js/main.d6764c06.js"
   ]
 }
