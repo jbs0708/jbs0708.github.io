@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3cb639c.css",
-    "main.js": "/static/js/main.e8250c5e.js",
+    "main.css": "/static/css/main.1b4d256a.css",
+    "main.js": "/static/js/main.d717336d.js",
     "static/media/MaruBuri-Bold.ttf": "/static/media/MaruBuri-Bold.e4b8f8f11f5954535578.ttf",
     "static/media/MaruBuri-SemiBold.ttf": "/static/media/MaruBuri-SemiBold.3182e4f22d4d2d7d0b3b.ttf",
+    "static/media/NanumSquareRoundB.ttf": "/static/media/NanumSquareRoundB.8ab117fc37409bd022e5.ttf",
     "static/media/Golden Plains.ttf": "/static/media/Golden Plains.60a51076f8b0c6ed7c4f.ttf",
+    "static/media/KakaoPay.jpg": "/static/media/KakaoPay.1cc1e46485be60fe0bc5.jpg",
     "static/media/copy.svg": "/static/media/copy.2145db70bcdee64f9af2f449c0d3d231.svg",
+    "static/media/pause.svg": "/static/media/pause.746606feefb69000a5b098bcff10940a.svg",
     "static/media/heart.svg": "/static/media/heart.7ac6880467c956636a893d9b99c8c5bc.svg",
+    "static/media/up.svg": "/static/media/up.8ced9ca9b5ed6247181420fd36f26e4b.svg",
+    "static/media/down.svg": "/static/media/down.5d592df8068fd4c3c653bc7bc42ddf50.svg",
+    "static/media/play.svg": "/static/media/play.24f778f022ff11f92842c205ed34e56a.svg",
     "index.html": "/index.html",
-    "main.e3cb639c.css.map": "/static/css/main.e3cb639c.css.map",
-    "main.e8250c5e.js.map": "/static/js/main.e8250c5e.js.map"
+    "main.1b4d256a.css.map": "/static/css/main.1b4d256a.css.map",
+    "main.d717336d.js.map": "/static/js/main.d717336d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3cb639c.css",
-    "static/js/main.e8250c5e.js"
+    "static/css/main.1b4d256a.css",
+    "static/js/main.d717336d.js"
   ]
 }
